@@ -18,3 +18,5 @@ Modes:
 
 ### Note:
 -c currently works like a Windows run box, any command you enter is passed to cmd /c and returns the result (if you want to use PowerShell, feel free to tweak the source code, it's annotated).
+
+I think it goes without saying, however ***use at your own risk*** I'm not responsible for what you do with it.
