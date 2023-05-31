@@ -1,8 +1,6 @@
 ﻿Imports System.Net
 Imports System.Net.Sockets
 Imports System.Text
-Imports System.Threading
-Imports System.Threading.Tasks
 Imports System.Text.RegularExpressions
 
 Module VBCat
