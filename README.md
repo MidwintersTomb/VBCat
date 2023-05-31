@@ -11,9 +11,9 @@ Usage: VBCat.exe <mode> [options]
 
 Modes:
 
--c <hostname> <port>    (Connect to a remote host")
+-c <hostname> <port>    (Connect to a remote host)
 
--l <port>               (Listen for incoming connections")
+-l <port>               (Listen for incoming connections)
 ```
 
 ### Note:
